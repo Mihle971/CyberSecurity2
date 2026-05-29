@@ -12,17 +12,17 @@ CyberSecurity2 is an interactive AI chatbot designed to help users learn about c
 
  Features
 
-- 🔊 **Voice greeting** – plays an audio welcome when the app launches
-- 👤 **User memory** – remembers returning users by name using a local text file
-- 💬 **Keyword-based AI responses** – matches user questions to cybersecurity answers
-- ❤️ **Sentiment detection** – recognises emotions like frustration, confusion, and happiness
-- 📌 **Interest tracking** – saves and reminds users of their cybersecurity interests every 3 messages
-- 🖥️ **Multi-page UI** – home page, username page, and chat page using WPF grids
+ **Voice greeting** – plays an audio welcome when the app launches
+  **User memory** – remembers returning users by name using a local text file
+  **Keyword-based AI responses** – matches user questions to cybersecurity answers
+**Sentiment detection** – recognises emotions like frustration, confusion, and happiness
+**Interest tracking** – saves and reminds users of their cybersecurity interests every 3 messages
+ **Multi-page UI** – home page, username page, and chat page using WPF grids
 
----
+
  Project Structure
 
-```
+
 CyberSecurity2/
 │
 ├── MainWindow.xaml          # UI layout – home, username, and chat grids
