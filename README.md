@@ -1,14 +1,13 @@
-# CyberSecurity2 – AI Cybersecurity Chatbot
+ CyberSecurity2 – AI Cybersecurity Chatbot
 
-A Windows desktop chatbot application built with **C# and WPF (.NET Framework 4.7.2)** that educates users on cybersecurity topics and online safety.
+A Windows desktop chatbot application built with C# and WPF (.NET Framework 4.7.2) that educates users on cybersecurity topics and online safety.
 
----
+
 
  About The Project
 
 CyberSecurity2 is an interactive AI chatbot designed to help users learn about cybersecurity. It greets users with a voice message, remembers their name, tracks their interests, and responds to questions about topics such as phishing, passwords, firewalls, VPNs, malware, and more. The chatbot also detects the user's emotional state (frustrated, confused, worried, etc.) and responds with empathy.
 
----
 
  Features
 
@@ -39,14 +38,14 @@ CyberSecurity2/
 
 ---
 
-## 🚀 How To Run
+ How To Run
 
-### Requirements
+Requirements
 - Windows 10 or 11
 - Visual Studio 2019 or later
 - .NET Framework 4.7.2
 
-### Steps
+ Steps
 1. Clone or download this repository
 2. Open `CyberSecurity2.sln` in Visual Studio
 3. Make sure `logo.png` and `greet.wav` are in the project root with **"Copy to Output Directory"** set to **"Copy always"**
